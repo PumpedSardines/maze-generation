@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "downlevelIteration": true,
+        "importHelpers": true,
+        "module": "es6",
+        "outDir": "./dist",
+        "sourceMap": true,
+        "declaration": false,
+        "moduleResolution": "node",
+        "strictNullChecks": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "noImplicitAny": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "target": "es5",
+        "lib": ["es2017", "dom"]
+    }
+}
